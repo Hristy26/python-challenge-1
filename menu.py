@@ -1,4 +1,7 @@
 # Menu dictionary
+from sympy import price
+
+
 menu = {
     "Snacks": {
         "Cookie": .99,
